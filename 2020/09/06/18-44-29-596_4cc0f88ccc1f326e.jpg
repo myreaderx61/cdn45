@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width" name="viewport">
+    <title>【公式】アイドルマスター OFFICIAL WEB（アイマス）</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T8V6FJB');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4ZQ6DS');</script>
+<!-- End Google Tag Manager -->
+<meta name="description" content="「アイドルマスター」シリーズの最新情報はこちら！" />
+<meta name="keywords" content="アイドルマスター,アイマス,アイドル,idolmaster,imas,シンデレラガールズ,デレステ,モバマス,ミリオンライブ,シアターデイズ,ミリシタ,シャイニーカラーズ,シャニマス,SideM,サイドエム,ドエム,エムステ,エムマス,765,315,346,876,283,15周年,アイドルマスター15周年,アイマス15周年,デレ,ミリ,エム,シャニ" />
+<meta name="token" content="e95b0d38c7ca6df1721a2afd8dd4ab78">
+<!-- FAVICON -->
+<link rel="shortcut icon" href="https://idolmaster-official.jp/favicon.ico" />
+<link rel="apple-touch-icon" href="https://idolmaster-official.jp/webclip.png">
+<link rel="manifest" href="https://idolmaster-official.jp/webclip.json">
+<!--fb-->
+<meta property="og:site_name" content="【公式】アイドルマスター OFFICIAL WEB（アイマス）">
+<meta property="og:title" content="【公式】アイドルマスター OFFICIAL WEB（アイマス）">
+<meta property="og:description" content="「アイドルマスター」シリーズの最新情報はこちら！">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://idolmaster-official.jp/ogp.png">
+<meta property="og:url" content="https://idolmaster-official.jp">
+<!--tw-->
+<meta name="twitter:app:country" content="JP">
+<meta name="twitter:site" content="@imas_official">
+<meta name="twitter:title" content="【公式】アイドルマスター OFFICIAL WEB（アイマス）">
+<meta name="twitter:description" content="「アイドルマスター」シリーズの最新情報はこちら！">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://idolmaster-official.jp/ogp.png">
+    <!-- CSS -->
+    <link href="/assets/css/reset.css" rel="stylesheet">
+    <link href="/assets/css/swiper.css" rel="stylesheet">
+    <link href="/assets/css/shared.css?1597842000" rel="stylesheet">
+    <link href="/assets/css/top.css?1597842000" rel="stylesheet">
+    <!-- FONTS -->
+    <link rel="stylesheet" href="https://use.typekit.net/osx8gph.css">
+  </head>
+  <body id="top" class="no-scroll">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8V6FJB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4ZQ6DS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="wrap" id="scroll-top">
+<div id="header">
+  <div class="inner">
+    <div id="mobile-head">
+      <h1><a href="/"><img src="/assets/img/share/logo_title.png" alt="THE IDOLM@STER OFFICIAL WEB"></a></h1>
+      <div id="nav-toggle">
+        <div>
+          <span></span>
+          <span></span>
+          <p class="menu">MENU</p>
+        </div>
+      </div>
+    </div>
+    <nav id="global-nav">
+      <ul class="contents">
+  			<li class="news"><a href="/news/">NEWS<span>ニュース</span></a></li>
+  			<li class="about"><a href="/about/">ABOUT<span>アイドルマスターとは</span></a></li>
+  			<li class="game"><a href="/game/">GAME<span>ゲーム</span></a></li>
+  			<li class="live"><a href="/live_event/">LIVE/EVENT<span>ライブ・イベント</span></a></li>
+  			<li class="goods"><a href="/goods/">GOODS<span>グッズ</span></a></li>
+  			<li class="anime"><a href="/anime/">ANIME<span>アニメ</span></a></li>
+  			<li class="media"><a href="/media/">MEDIA<span>メディア</span></a></li>
+  			<li class="schedule"><a href="/schedule/" target="_blank" rel="noopener">SCHEDULE<span>スケジュール</span></a></li>
+  		</ul>
+      <div class="language">
+	      <p class="text sp">Language</p>
+    		<ul>
+    			<li><a href="https://idolmaster-official.jp/" class="active">日本語</a></li>
+                <li><a href="https://as.idolmaster-official.jp/">繁體字</a></li>
+    		</ul>
+      </div>
+    </nav>
+  </div>
+</div>
+      <div class="banner-slide swiper-container">
+        <ul class="slider swiper-wrapper">
+          <li class="swiper-slide"><a id="top-banner" href="https://15th.idolmaster.jp/" target="_blank"><img src="/idolmaster/jp/banner/lfowa7AmqP63WIYk/2020/07/imas15th-3_KV_resize_1600x840.jpg" alt="アイドルマスター15周年特設サイト"> </a></li>
+          <li class="swiper-slide"><a id="top-banner" href="https://cinderella.idolmaster.jp/sl-stage/" target="_blank"><img src="/idolmaster/jp/banner/nUuPs2GDXaW3nEVZ/2020/09/1600×840_周年_0903.png" alt="シンデレラガールズ スターライトステージ_5周年"> </a></li>
+          <li class="swiper-slide"><a id="top-banner" href="https://millionlive.idolmaster.jp/theaterdays/" target="_blank"><img src="/idolmaster/jp/banner/v3hIT0iNVOBXOUGw/2020/07/game_bnr_theaterdays.jpg" alt="アイドルマスター ミリオンライブ！ シアターデイズ"> </a></li>
+          <li class="swiper-slide"><a id="top-banner" href="https://side-m.idolmaster.jp/" target="_blank"><img src="/idolmaster/jp/banner/8fbcL3pLBUeXwbPf/2020/07/game_bnr_sidem.jpg" alt="アイドルマスター SideM"> </a></li>
+          <li class="swiper-slide"><a id="top-banner" href="https://shinycolors.idolmaster.jp/" target="_blank"><img src="/idolmaster/jp/banner/NTRRe0sUHwIEkajl/2020/07/game_bnr_shinycolors.jpg" alt="アイドルマスター シャイニーカラーズ"> </a></li>
+        </ul>
+        <div class="slide-dots swiper-pagination"></div>
+        <div class="slider-arrow prev-arrow swiper-button-prev"></div>
+        <div class="slider-arrow next-arrow swiper-button-next"></div>
+      </div>
+      <div class="news-area">
+        <h2>NEWS<span>ニュース</span></h2>
+        <div class="news-contents">
+          <ul class="list-format">
+        <li> <a href="https://idolmaster-official.jp/news/01_248.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/1006/CINDERELLAGIRLS/2020/09/RR初出KVw1200×h630.png?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-CINDERELLAGIRLS">シンデレラガールズ</p>
+            <p class="text">【シンデレラガールズ】×【SCRAP】体験型イベント第3弾「SHOOTING QUEENTET〜離れていてもプロデュース！〜」開催決定！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Live/Event</p>
+              <p class="tag">Goods</p>
+            </div>
+            <p class="schedule">2020.09.06</p>
+          </div>
+        </a> </li>
+        <li> <a href="https://idolmaster-official.jp/news/01_270.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/2020/09/05/cg_24_bnr_0905.jpg?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-CINDERELLAGIRLS">シンデレラガールズ</p>
+            <p class="text">【シンデレラたちの24時間生放送！】アソビストアのグッズ受注販売が開始されました！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Goods</p>
+            </div>
+            <p class="schedule">2020.09.05</p>
+          </div>
+        </a> </li>
+        <li> <a href="https://idolmaster-official.jp/news/01_242.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/2020/09/04/ストレイライト.jpg?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-SHINYCOLORS">シャイニーカラーズ</p>
+            <p class="text">【シャニマス】『この指と～まれ！season4』にストレイライトが出演決定！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Live/Event</p>
+              <p class="tag">Media</p>
+            </div>
+            <p class="schedule">2020.09.04</p>
+          </div>
+        </a> </li>
+        <li> <a href="https://idolmaster-official.jp/news/01_249.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/2020/09/04/sidem5th_anniversarybook_bnr_0717.jpg?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-SIDEM">SideM</p>
+            <p class="text">【SideM】「THE IDOLM＠STER SideM 5th Anniversary Book」が受注受付中！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Goods</p>
+            </div>
+            <p class="schedule">2020.09.04</p>
+          </div>
+        </a> </li>
+        <li> <a href="https://idolmaster-official.jp/news/01_237.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/2020/09/03/GW0607.jpg?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-SHINYCOLORS">シャイニーカラーズ</p>
+            <p class="text">【シャニマス】「GR@DATE WING 06/07」CDリリース記念グッズの通販を実施 ＆ 特典デザイン公開！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Goods</p>
+            </div>
+            <p class="schedule">2020.09.04</p>
+          </div>
+        </a> </li>
+        <li> <a href="https://idolmaster-official.jp/news/01_232.html">
+          <div class="thumb">
+            <p><img src="/idolmaster/jp/article/2020/09/02/miri_202009trio_1280x720_youtube_02.jpg?_=1b26b4b7fe73421ece4a9d99aa03524a" alt=""></p>
+          </div>
+          <div class="text-area">
+            <p class="title brand-MILLIONLIVE">ミリオンライブ！</p>
+            <p class="text">【ミリシタ】2020年9月10日(木)19:30～「ミリシタ 晩夏の生配信！ ～今夜はトリオでお届けしますよ～ 」配信予定！</p>
+          </div>
+          <div class="ft-area">
+            <div class="tag-area">
+              <p class="tag">Media</p>
+              <p class="tag">Other</p>
+            </div>
+            <p class="schedule">2020.09.03</p>
+          </div>
+        </a> </li>
+          </ul>
+          <div class="btn"> <a href="/news/">NEWS一覧へ</a> </div>
+        </div>
+      </div>
+      <div class="schedule-area">
+        <h2>SCHEDULE<span>スケジュール</span></h2>
+        <div class="banner"> <a href="/schedule/" target="_blank" rel="noopener">
+          <picture>
+            <source media="(min-width: 768px)" srcset="/assets/img/top/banner_schedule.png">
+            <source media="(max-width: 767px)" srcset="/assets/img/top/banner_schedule_sp.png">
+            <img alt="プロデューサースケジュール表" src="/assets/img/top/banner_schedule.png"></picture>
+          </a> </div>
+        <h3>アイドルマスター公式アカウントで<br class="sp">
+          最新情報をチェック！</h3>
+        <ul class="sns">
+          <li class="twitter"><a id="top-twitter-official" href="https://twitter.com/imas_official" target="_blank" rel="noopener">
+            <p>公式Twitterをフォローする</p>
+            </a></li>
+          <li class="youtube"><a id="top-youtube-official" href="https://www.youtube.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA/" target="_blank" rel="noopener">
+            <p>YouTubeチャンネルを登録する</p>
+            </a></li>
+        </ul>
+      </div>
+      <div class="beginner">
+        <h3>
+          <picture>
+            <source media="(min-width: 768px)" srcset="/assets/img/top/begginer_pc.png">
+            <source media="(max-width: 767px)" srcset="/assets/img/top/begginer_sp.png">
+            <img alt="初めての方へ" src="/assets/img/top/begginer_pc.png"></picture>
+        </h3>
+        <div class="beginner-h2"><h2>ABOUT<span>アイドルマスターとは</span></h2></div>
+        <div class="chara">
+          <p>
+            <picture>
+              <source media="(min-width: 768px)" srcset="/assets/img/top/chara.png">
+              <source media="(max-width: 767px)" srcset="/assets/img/top/chara_sp.png">
+              <img alt="これからも、アイドル!!!!!" src="/assets/img/top/chara.png"></picture>
+          </p>
+        </div>
+        <div class="btn ver2"> <a href="/about/">各ブランドの詳細はこちら</a> </div>
+      </div>
+      <div class="osusume">
+        <h3>オススメゲームはこちら！</h3>
+        <div class="osusume-slide swiper-container">
+        <ul class="slider swiper-wrapper">
+            <li class="swiper-slide"><a id="top-banner" href="https://cinderella.idolmaster.jp/sl-stage/" target="_blank"><img src="/idolmaster/jp/banner/KHyULKk15p7I8csb/2020/07/1600×840.png" alt="アイドルマスター シンデレラガールズ スターライトステージ"> </a></li>
+            <li class="swiper-slide"><a id="top-banner" href="https://millionlive.idolmaster.jp/theaterdays/" target="_blank"><img src="/idolmaster/jp/banner/v3hIT0iNVOBXOUGw/2020/07/game_bnr_theaterdays.jpg" alt="アイドルマスター ミリオンライブ！ シアターデイズ"> </a></li>
+            <li class="swiper-slide"><a id="top-banner" href="https://side-m.idolmaster.jp/" target="_blank"><img src="/idolmaster/jp/banner/8fbcL3pLBUeXwbPf/2020/07/game_bnr_sidem.jpg" alt="アイドルマスター SideM"> </a></li>
+            <li class="swiper-slide"><a id="top-banner" href="https://shinycolors.idolmaster.jp/" target="_blank"><img src="/idolmaster/jp/banner/NTRRe0sUHwIEkajl/2020/07/game_bnr_shinycolors.jpg" alt="アイドルマスター シャイニーカラーズ"> </a></li>
+          </ul>
+              <div class="slide-dots swiper-pagination2"></div>
+              <div class="slider-arrow prev-arrow swiper-button-prev"></div>
+              <div class="slider-arrow next-arrow swiper-button-next"></div>
+        </div>
+      </div>
+       <div class="live-detail"><a href="/live_event/"><img alt="" src="/assets/img/top/bnr_live_event.png"></a></div>
+       <div class="foot-banner">
+        <ul>
+          <li><a href="https://columbia.jp/idolmaster/" target="_blank" rel="noopener"><img src="/assets/img/top/bnr_columbia.png" alt="アイドルマスター(THE IDOLM@STER) 日本コロムビア 公式サイト"></a> </li>
+          <li><a href="https://www.lantis.jp/imas/" target="_blank" rel="noopener"><img src="/assets/img/top/bnr_lantis_million.png" alt="アイドルマスター ミリオンライブ！ THE IDOLM@STER MILLION LIVE!"></a> </li>
+          <li><a href="https://www.lantis.jp/sidem/" target="_blank" rel="noopener"><img src="/assets/img/top/bnr_lantis_sidem.png" alt="アイドルマスター SideM"></a> </li>
+          <li><a href="https://www.lantis.jp/shinycolors/" target="_blank" rel="noopener"><img src="/assets/img/top/bnr_lantis_shinycolors.png" alt="アイドルマスター シャイニーカラーズ"></a> </li>
+        </ul>
+      </div>
+<footer>
+	<div class="caution">
+		<p>&copy;窪岡俊之 ©BANDAI NAMCO Entertainment Inc.</p>
+	</div>
+	<script src="https://bandainamcoent.co.jp/common/include/products/utf8/footer00.js"></script>
+	<div id="page-top"><a href="#scroll-top">ページトップへ</a></div>
+</footer>
+      <div id="idollist">
+      <p class="btn-close" onClick="toggle_hidden();return false;">CLOSE</p>
+      <a href="https://idollist.idolmaster-official.jp/" target="_blank" rel="noopener">アイドル名鑑</a></div>
+    </div>
+    <!-- JS -->
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+    <script src="/assets/js/slick.min.js"></script>
+    <script src="/assets/js/TextShortCut.js"></script>
+    <script src="/assets/js/swiper.js"></script>
+    <script src="/assets/js/shared.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    var ua = window.navigator.userAgent.toLowerCase();
+ 
+    // IE かどうか判定
+    if(ua.indexOf('msie') >= 0 || ua.indexOf('trident') >= 0) {
+      document.body.classList.add("isIe");
+    }
+    setTimeout(function(){
+      var mainSlider = document.querySelector(".banner-slide.swiper-container");
+      var pagination = document.querySelector(".swiper-pagination");
+      var swiper = new Swiper(mainSlider, {
+       pagination: {
+         el: '.swiper-pagination',
+         type: 'bullets',
+         clickable: true
+       },
+       navigation: {
+         nextEl: '.swiper-button-next',
+         prevEl: '.swiper-button-prev',
+       },
+       paginationClickable: true,
+       slidesPerView: 'auto',
+       centeredSlides: true,
+       spaceBetween: 0,
+       effect: 'coverflow',
+       touchRatio: 1.5,
+       threshold: 10,
+       autoplay: {delay: 5000},
+       speed: 500,
+       loop: true,
+       initialSlide: 0,
+       coverflowEffect: {
+         rotate: 0,
+         stretch: -2,
+         depth: 0.04,
+         modifier: 1,
+         slideShadows : false
+       },
+       breakpoints: {
+         768: {
+           coverflowEffect: {
+             rotate: 0,
+             stretch: 0,
+             depth: 0.04,
+             modifier: 1,
+             slideShadows : false
+           }   
+         }
+       },
+        on: {
+          init: function () {
+            setTimeout(function(){
+               document.body.classList.add("banner-show");
+            }, 1000);
+            setTimeout(function(){
+               document.querySelector(".banner-slide.swiper-container").classList.add("show");
+            }, 100);
+            setTimeout(function(){
+                document.querySelector(".banner-slide.swiper-container").classList.add("show-bg-color");
+            }, 700);
+          }
+        },
+      });
+    }, 600);
+  }, false);
+  window.addEventListener("load", function(){
+    setTimeout(function(){
+      var mainSlider = document.querySelector(".osusume-slide.swiper-container");
+      var pagination = document.querySelector(".swiper-pagination2");
+      var swiper = new Swiper(mainSlider, {
+       pagination: {
+         el: '.swiper-pagination2',
+         type: 'bullets',
+         clickable: true
+       },
+       navigation: {
+         nextEl: '.swiper-button-next',
+         prevEl: '.swiper-button-prev',
+       },
+       paginationClickable: true,
+       slidesPerView: 'auto',
+       centeredSlides: true,
+       spaceBetween: 0,
+       effect: 'coverflow',
+       touchRatio: 1.5,
+       threshold: 10,
+       autoplay: {delay: 5000},
+       speed: 500,
+       loop: true,
+       initialSlide: 0,
+       coverflowEffect: {
+         rotate: 0,
+         stretch: -2,
+         depth: 0.04,
+         modifier: 1,
+         slideShadows : false
+       },
+       breakpoints: {
+         768: {
+           coverflowEffect: {
+             rotate: 0,
+             stretch: 0,
+             depth: 0.04,
+             modifier: 1,
+             slideShadows : false
+           }   
+         }
+       }
+      });
+    }, 600);
+  }, false);
+  
+	</script>
+	<script type="text/javascript">
+  <!--
+  var elem1 = document.getElementById("idollist");
+  function toggle_hidden() {
+    elem1.style.display = "none";
+  }
+  -->
+  </script>
+  </body>
+</html>
