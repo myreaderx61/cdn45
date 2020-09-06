@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Agenda Juvenil. Ayuntamiento de Zaragoza</title><meta name="twitter:card" content="summary" /><meta name="og:type" content="website" /><meta name="twitter:title" content="Agenda Juvenil. Ayuntamiento de Zaragoza" /><meta name="og:title" content="Agenda Juvenil. Ayuntamiento de Zaragoza" /><meta name="og:url" content="http://www.zaragoza.es/sede/servicio/actividades/juvenil/" /><meta name="description" content="El Portal Agenda Juvenil difunde las diferentes actividades relacionadas con los jóvenes que se pueden realizar en Zaragoza a tiempo real y localizadas en un mapa de la ciudad. También puede insertar " /><meta name="og:description" content="El Portal Agenda Juvenil difunde las diferentes actividades relacionadas con los jóvenes que se pueden realizar en Zaragoza a tiempo real y localizadas en un mapa de la ciudad. También puede insertar " /><meta name="twitter:description" content="El Portal Agenda Juvenil difunde las diferentes actividades relacionadas con los jóvenes que se pueden realizar en Zaragoza a tiempo real y localizadas en un mapa de la ciudad. También puede insertar " /><meta name="audience" content="Ciudadanía" /><meta name="subject" content="Ayuntamiento, Zaragoza, España, Ciudad, Council, Zaragoza, Spain, City, Ciencia y Tecnología, Comercio, Cultura y Ocio, Demografía, Deporte, Educación, Empleo, Juventud" /><meta name="keywords" content="ayuntamiento, ciudad, Zaragoza, España, CIPAJ, servicios, difusión de la información, direcciones de Internet, formalidades administrativas, administración electrónica, carnés juveniles, actividades, publicaciones, anuncios públicos, agenda, noticias, carta de servicios, memorias de actividad, documentación, premios, concursos, ayudas, subvenciones, red ciudadana, asociaciones, entidades locales, antenas, Unión Europea, consulta de informacion, plano, RSS,  council, city, Saragossa, Spain, services, dissemination of information, Internet adress, administrative formalities, youth cards, activities, publications, displays, agenda, news, costumer charter, annual reports, documentation, prizes, contests, state aid, economic support, citizen network, associations, local authorities, antenna, European Union, consultation of information, travel, vocational guidance, psycology, sexuality, legal adviser, geographical movility, plan" /><meta name="author" content="Oficina de Participación, Transparencia y Gobierno Abierto" /><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+    <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KDWTVQB');</script>
+<!-- End Google Tag Manager -->
+<link rel="home" href="https://www.zaragoza.es" title="Página Inicio. " />
+<link rel="index" href="https://www.zaragoza.es/sede/portal/mapa-web" title="Mapa web. " />
+<link rel="search" href="http://buscador.zaragoza.es/" title="Buscador. " />
+<link rel="license" href="https://www.zaragoza.es/sede/portal/copy" title="Copyright. " />
+<link rel="author" href="mailto:sedeelectronica@zaragoza.es" title="Contacto. " />
+
+
+<link id="rsmod_Styles" type="text/css" rel="stylesheet" href="//cdn1.readspeaker.com/script/17/webReader/r/r1070/ReadSpeaker.Styles-Button.css?v=3.2.1.1070" />
+<link rel="stylesheet" href="https://www.zaragoza.es/cont/assets/css/main-sede.min.css" />
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>*/-->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous" />
+<!--[if lt IE 9]>
+<script src="/cont/assets/bower_components/html5shiv/dist/html5shiv.min.js"></script>
+<script src="/cont/assets/bower_components/respond/dest/respond.min.js"></script>
+<link rel="stylesheet" href="//www.zaragoza.es/cont/plantillas/bs/css/ie-9.css"/>
+<![endif]-->
+<style>
+.w19pct {
+   width: 19%;   
+   float: left;
+   margin: 0 5px;
+}
+.l-h-60px {
+	line-height: 2.3;
+}
+body {
+	padding-top: 57px;
+	/*background-color: #fafafa;*/
+}
+.card-footer {
+	background: #E6E6E6 !important;
+}
+
+.card-agua:hover {
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+/*---agua.css--*/
+#nodecoration  a {
+	text-decoration: none;
+}
+cuadro {
+	position: relative;
+	background-color: #cccccc;
+	border-radius: 10px;
+	margin-bottom:10px;
+}
+
+.cuadro h3 {
+	background-color: rgba(0,0,0,0.7);
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 0;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.cuadro h3 a {
+	color: #ffffff !important;
+	font-weight: bold;
+}
+
+.cuadro img {
+	padding-bottom: 0;
+	margin: 0px;
+	width:100%
+}
+
+.cuadro-h div {
+	padding-left: 10px !important;
+}
+
+.cuadro-v img {
+    padding-bottom: 0;
+    border-radius: 5px 5px 0 0;
+}
+.titulo-org h2, .procesos h2 {
+    color: #e83437;
+    font-size: 42px;
+    padding-bottom: 20px;
+}
+.lineah2 {
+	border-bottom: 1px solid #000; 
+}
+@media(max-width: 480px){
+	.w19pct{
+	width:100%;
+	margin:0;
+	}
+}
+
+</style>
+
+
+    <!--    <script type="text/javascript" src="//www.zaragoza.es/geocoderIDEZar/dwr/engine.js"></script>
+    <script type="text/javascript" src="//www.zaragoza.es/geocoderIDEZar/javascript/GUI.js"></script>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+        ocultarArbolCapas = false;
+        var i = 0;
+        var dataActualidad = "{title:'Actividades', claseIcono:'agenda',clase:'visible', id:'" + i + "', url: '//www.zaragoza.es/sede/servicio/cultura/evento/hoy.geojson'}, {title:'Arte Público', claseIcono:'arte2', clase:'oculto', id:'" + (++i) + "', url:'//www.zaragoza.es/sede/servicio/arte-publico.geojson'}, {title:'Edificios Histórico Artísticos', claseIcono:'culturaYocio', clase:'oculto', id: '" + (++i) + "', url:'//www.zaragoza.es/sede/servicio/edificio-historico.geojson'}, {title:'Monumentos', claseIcono:'arte', clase:'oculto', id:'" + (++i) + "', url:'//www.zaragoza.es/sede/servicio/monumento.geojson'}";
+    /*]]>*/
+    </script>
+    <script type="text/javascript" src="//www.zaragoza.es/js/homeMapa.js"></script> -->
+    <style type="text/css">
+    body {
+        padding-top: 57px;
+    }
+    .alto {height:18em; margin .5em}
+    .titulo-test {
+        margin: 0 0 .5em !important;
+    }
+
+    .bloque-agenda .programa {
+        background: none;
+        color: inherit;
+    }
+
+    .bloque-agenda .programa a {
+        color: #E81B16;
+    }
+
+    .thumbnail.overlay {
+        border: none;
+    }
+
+    @media (min-width: 768px) {
+        .thumbnail.overlay img {
+            min-height: 18em;
+        }
+        .thumbnail.overlay .caption {
+            max-height: 6.8em;
+            min-height: 6.8em;
+            padding: .5em !important;
+        }
+        .thumbnail.overlay .caption p {
+            margin: 0;
+        }
+    }
+
+    .img-container {
+        position: relative;
+    }
+
+    .img-container .overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-color: #fff;
+        /*#008a00;*/
+        overflow: hidden;
+        /*width: 75%;*/
+        width: 100%;
+        height: 25%;
+        transition: .5s ease;
+        /*border-radius: 6px 6px 0 0;*/
+    }
+    /*.img-container:hover .overlay {
+        height: 25%;
+    }*/
+
+    .img-container .text {
+        white-space: nowrap;
+        color: #202020;
+        /*#8958a9;*/
+        /*#fff;*/
+        /*font-size: 14px;*/
+        /*font-size: 12px;*/
+        font-size: .85em;
+        position: absolute;
+        overflow: hidden;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .list-noticia a {
+        color: #202020;
+    }
+
+    .list-noticia li {
+        border-bottom: 1px solid #E6E6E6;
+        /*fnd-gris-claro*/
+        margin-bottom: .5em;
+        padding-bottom: .5em;
+    }
+
+    ul#menu {
+        /*border-bottom: 2px solid #E81B16;*/
+        border: 1px solid #CCC;
+        font-weight: bold;
+        margin-bottom: 1em;
+        border-radius: 0 0 .5em .5em;
+    }
+    /*ul#menu .elemento:first-child:before {
+        content:'';
+          width: 40px;
+          height: 40px;
+          position: absolute;
+          top: 0;
+          left: 0;          
+          background: #CCC;
+    }*/
+
+    ul#menu .elemento {
+        display: block;
+        padding: 10px 15px;
+        margin: 0;
+        font-size: 1em;
+        font-weight: bold;
+        line-height: 1.42857143;
+        /* h2 line-height == a line-height*/
+    }
+
+    ul#menu h2 {
+        background: #E81B16;
+        color: white;
+    }
+
+    #calendar {
+        margin-bottom: 0;
+    }
+
+    .nav-bottom {
+        background: #E81B16;
+    }
+    
+    .nav-bottom ul li {
+        padding: .5em 0em .5em 1em;
+        /*margin: .5em 0em .5em;*/
+    }
+    
+    .nav-bottom ul li a {
+        border-left: 1px solid #fff;
+        color: #fff;
+        padding: .5em;
+    }
+
+    .nav-bottom ul li a:hover {
+        background: #B50000;
+    }
+
+
+    .caption {
+        color: #202020;
+        font-weight: bold !important;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="sectores">
+        <header class="navbar navbar-default navbar-fixed-top navbar-portal">
+            <div class="container-fluid">
+                
+                <a class="logo pull-left" href="https://www.zaragoza.es" title="Ir a la página principal de la Sede Electrónica del Ayuntamiento de Zaragoza">
+    <img src="//www.zaragoza.es/cont/paginas/img/sede/logo_escudo.png" alt="Logotipo Ayuntamiento de Zaragoza" />
+</a>
+                <div class="pull-left portal-header">
+                    <h1><a href="/sede/servicio/actividades/juvenil/">Agenda Joven</a></h1><nav><ul class="breadcrumb small"><li><span><a href="https://www.zaragoza.es">zaragoza.es</a></span></li><li><span><a href="/ciudad/sectores/">Para la Gente</a></span></li><li><span><a href="/ciudad/sectores/jovenes/">Juventud</a></span></li><li><span><a href="/ciudad/sectores/jovenes/cipaj/">CIPAJ</a></span></li></ul><script type="application/ld+json">{ "@context": "http://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem","position": 1,"item":{"@id": "https://www.zaragoza.es","name": "zaragoza.es"}},{"@type": "ListItem","position": 2,"item":{"@id": "/ciudad/sectores/","name": "Para la Gente"}},{"@type": "ListItem","position": 3,"item":{"@id": "/ciudad/sectores/jovenes/","name": "Juventud"}},{"@type": "ListItem","position": 4,"item":{"@id": "/ciudad/sectores/jovenes/cipaj/","name": "CIPAJ"}} ]}</script></nav>
+                </div>
+                
+
+<!-- <header class="navbar navbar-default navbar-static-top"> -->
+    <!-- <div class="container-fluid"> -->
+        <!-- <a class="logo pull-left" href="//www.zaragoza.es" title="Ir a la página principal de la Sede Electrónica del Ayuntamiento de Zaragoza"> 
+            <img height="50" class="hidden-xs" src="//www.zaragoza.es/aytocasa/enlinea/ayto.gif" alt="Logotipo Ayuntamiento de Zaragoza" /> 
+            <img class="visible-xs" src="//www.zaragoza.es/cont/paginas/bs/img/aytoLogoCorto_old.png" alt="Logotipo Abreviado Ayuntamiento de Zaragoza" /> 
+        </a> -->
+
+        <!-- <form class="pull-right search-form form-inline" id="gs" method="get" th:action="${titlePortal} ? (${path} ? ${path} : './list') : '/sede/servicio/buscador'"> -->
+        <form class="pull-right search-form search-form--r form-inline" id="gs" method="get" action="/sede/servicio/buscador">
+            
+                <div class="form-group has-feedback nomargin">
+                    <label for="input-search-desktop" class="oculto">Buscador</label>
+                    
+                    <!-- <input th:if="${query}" type="hidden" id="input-search-tag" name="fq" th:value="${query}"/> -->
+                    <input id="input-search-desktop" class="form-control" type="text" name="query" size="15" maxlength="256" placeholder="Buscar en zaragoza.es" />
+                    
+                </div>
+                <button type="submit" class="btn btn-search" aria-label="Buscar"><span class="fa fa-2x fa-inverse fa-search" aria-hidden="true"></span></button>
+            
+
+            
+    
+            <span class="btn btn-sitemap"><span class="fa fa-2x fa-inverse fa-sitemap" aria-hidden="true" title="Mapa de la web"></span></span>
+
+            <a class="btn" style="background:none;" href="https://www.zaragoza.es/sede/acceso?r=%2Fsede%2Fservicio%2Factividades%2Fjuvenil%2F">
+                <span aria-hidden="true" class="fa fa-2x fa-inverse fa-user"></span>
+                <span class="oculto">Iniciar sesión</span>
+            </a>
+
+            
+            
+        </form>
+
+    <!-- </div> -->
+        
+        
+            <nav class="navegacion-portales" style="display: none;">
+            <div class="row no-gutter" role="tablist" aria-multiselectable="true">
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="ayto panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="accordion-ogob" data-toggle="collapse" href="#accordion-ogob">
+                            Gobierno Abierto
+                        </a>
+                        
+                    </div>
+                    <div id="accordion-ogob" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/ciudadania/gobierno-abierto/">Servicios Destacados<span class="oculto"> de Gobierno Abierto</span></a></li>
+                            <li><a href="https://www.zaragoza.es/ciudad/ticketing/verNuevaQuejaAnonima_Ticketing">Quejas y Sugerencias</a></li>
+                            <li><a href="/sede/portal/datos-abiertos/">Datos Abiertos</a></li>
+                            <li><a href="/sede/portal/participacion/">Participar y Colaborar</a></li>
+                            <li><a href="/sede/portal/participacion/en-tu-barrio">En tu Barrio</a></li>
+                            <li><a href="/sede/portal/participacion/procesos-participativos/">Procesos Participativos</a></li>
+                            <li><a href="/sede/portal/consulta-publica/">Consulta Pública</a></li>
+                            <li><a href="/sede/servicio/mapa-colaborativo/">Mapas Colaborativos</a></li>
+                            
+
+                            <li><a href="/sede/servicio/transparencia/">Transparencia</a></li>
+                            <li><a href="/sede/servicio/transparencia/agenda-abierta">Agenda Abierta</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="ayto panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="accordion-ayto" data-toggle="collapse" href="#accordion-ayto">
+                        El Ayuntamiento
+                    </a>
+                        
+                    </div>
+                    <div id="accordion-ayto" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/ciudad/ayto/">Servicios destacados<span class="oculto"> del Ayuntamiento</span></a></li>
+                            <li><a href="/sede/portal/agua/">Agua</a></li>
+                            <li><a href="/sede/portal/organizacion/alcalde/">Alcalde</a></li>
+                            <li><a href="/ciudad/usic/">Archivo, Biblioteca, Hemeroteca</a></li>
+                            <li><a href="/sede/portal/ayuda-subvencion/servicio/tramite/tipo/162">Ayudas y Subvenciones</a></li>
+                            <li><a href="/sede/portal/bomberos/">Bomberos</a></li>
+                            <li><a href="/sede/portal/calidad/">Calidad</a></li>
+                            <li><a href="/ciudad/encasa/hacienda/">Hacienda y Economía</a></li>
+                            <li><a href="/sede/portal/plan-igualdad/">Igualdad</a></li>
+                            <li><a href="/sede/servicio/normativa/">Normativa</a></li>
+                            <li><a href="/ciudad/noticias/index_Noticia">Noticias</a></li>
+                            <li><a href="/oferta/">Oferta de Empleo</a></li>
+                            <li><a href="/sede/portal/organizacion/">Organización</a></li>
+                            <li><a href="/sede/servicio/contratacion-publica/">Contratación Pública</a></li>
+                            <li><a href="/ciudad/policia/">Policia</a></li>
+                            <li><a href="/sede/servicio/publicaciones/">Publicaciones Municipales</a></li>
+                            <li><a href="/sede/servicio/premios-concursos/">Premios y Concursos</a></li>
+                            <li><a href="/ciudad/saneamiento/">Saneamiento</a></li>
+                            <li><a href="/ciudad/tablon/index_Tablon">Tablón</a></li>
+                            <li><a href="/ciudad/encasa/tramites.htm">Trámites y Servicios</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="ciudad panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="accordion-ciudad" data-toggle="collapse" href="#accordion-ciudad">
+                        La Ciudad
+                    </a>
+                        
+                    </div>
+                    <div id="accordion-ciudad" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/ciudad/">Servicios destacados<span class="oculto"> de La Ciudad</span></a></li>
+                            <li><a href="/sede/portal/bibliotecas-municipales/">Bibliotecas</a></li>
+                            <li><a href="/sede/portal/callejero/">Callejero</a></li>
+                            <li><a href="/ciudad/cementerios/">Cementerios</a></li>
+                            <li><a href="/ciudad/consumo/">Consumo</a></li>
+                            <li><a href="/sede/portal/deporte/">Deporte</a></li>
+                            <li><a href="/ciudad/educacion/">Educación</a></li>
+                            <li><a href="/ciudad/educacionybibliotecas/">Educación y Bibliotecas (Patronato)</a></li>
+                            <li><a href="/sede/servicio/equipamiento/">Equipamientos</a></li>
+                            <li>
+                                <a href="/sede/portal/idezar/">
+                                    Geoportal de Zaragoza: <abbr title="Infraestructuras de datos espaciales del Ayuntamiento de Zaragoza">IDEZAR</abbr>
+                                </a>
+                            </li>
+                            <li><a href="/ciudad/zaragozainternacional/">Internacional</a></li>
+                            <li><a href="/sede/portal/medioambiente/residuos/">Limpieza y residuos</a></li>
+                            <li><a href="/sede/portal/medioambiente/">Medio Ambiente</a></li>
+                            <li><a href="/sede/portal/medioambiente/infraestructura-verde/">Parques, jardines e infraestructuras verdes</a></li>
+                            <li><a href="/sede/portal/mercados/">Mercados</a></li>
+                            <li><a href="/sede/portal/movilidad//sede/portal/movilidad/">Movilidad</a></li>
+                            <li><a href="/ciudad/estadistica/">Observatorio Estadística</a></li>
+                            <li><a href="/ciudad/IMSP/">Salud</a></li>
+                            <li><a href="/ciudad/sinbarreras/">Sin Barreras</a></li>
+                            <li><a href="/ciudad/urbanismo/">Urbanismo</a></li>
+                            <li><a href="/ciudad/vistasciudad/enlace/turismo/es/webcam_Virtual">Visual</a></li>
+                            <li><a href="/sede/portal/voluntariado/">Voluntariado</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="cultura panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="accordion-cultura" data-toggle="collapse" href="#accordion-cultura">
+                        Cultura
+                    </a>
+                        
+                    </div>
+                    <div id="accordion-cultura" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/sede/servicio/cultura/">Servicios destacados<span class="oculto"> de Cultura</span></a></li>
+                            <li><a href="/sede/servicio/arte-publico/">Arte Público</a></li>
+                            <li><a href="/ciudad/museos/es/chistoria">Centro de Historias</a></li>
+                            <li><a href="/sede/servicio/equipamiento/list?fq=temas_smultiple:(%22Cultura+y+Ocio%22)">Equipamientos de Cultura</a></li>
+                            <li><a href="/sede/portal/cultura/profesional">Convocatorias de cultura</a></li>
+                            <li><a href="/ciudad/museos/es/activ/activ-didacticas.htm">Museos: Actividades Didácticas</a></li>
+                            <li><a href="/sede/portal/bomberos/servicio/equipamiento/4465">Museo de los Bomberos</a></li>
+                            <li><a href="/sede/servicio/equipamiento/701">Museo Foro <em>Caesaraugusta</em></a></li>
+                            <li><a href="/sede/servicio/equipamiento/2176">Museo Puerto Fluvial <em>Caesaraugusta</em></a></li>
+                            <li><a href="/sede/servicio/equipamiento/2430">Museo Teatro <em>Caesaraugusta</em></a></li>
+                            <li><a href="/sede/servicio/equipamiento/2175">Museo Termas <em>Caesaraugusta</em></a></li>
+                            <li><a href="/sede/servicio/equipamiento/2174">Museo Pablo Gargallo</a></li>
+                            <li><a href="/ciudad/cultura/observatorio/">Observatorio de cultura</a></li>
+                            <li><a href="/ciudad/cultura/patrimonio/enlace/cultura/observatorio/directorios/patrimonio.htm">Patrimonio</a></li>
+                            <li><a href="/sede/servicio/publicaciones/cultura/">Publicaciones</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="sectores panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="accordion-sectores" data-toggle="collapse" href="#accordion-sectores">
+                        Para la Gente
+                    </a>
+                        
+                    </div>
+                    <div id="accordion-sectores" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/ciudad/sectores/">Servicios destacados<span class="oculto"> de Para la Gente</span></a></li>
+                            <li><a href="/ciudad/sectores/adicciones/">Atención / Prevención Adicciones</a></li>
+                            <li><a href="/ciudad/sectores/casaculturas/">Casa de las Culturas</a></li>
+                            <li><a href="/sede/portal/derechos-sociales/cooperacion-desarrollo/">Cooperación al Desarrollo</a></li>
+                            <li><a href="/sede/portal/comercio/">Comercio Local</a></li>
+                            <li><a href="/ciudad/sectores/social/">Acción Social y Familia</a></li>
+                            <li><a href="/sede/servicio/equipamiento/">Equipamientos</a></li>
+                            <li><a href="/sede/portal/juventud/">Juventud</a></li>
+                            <li><a href="/sede/portal/servicios-sociales/infancia/">Infancia</a></li>
+                            <li><a href="/sede/portal/servicios-sociales/personas-mayores/">Mayores</a></li>
+                            <li><a href="/ciudad/sectores/mujer/">Mujeres</a></li>
+                            <li><a href="/ciudad/sectores/pich/">Oficina PICH</a></li>
+                            <li><a href="/ciudad/sectores/tarjetaciudadana/">Tarjeta Ciudadana</a></li>
+                            <li><a href="/ciudad/sectores/tecnologia/">Tecnología y Ciudadanía</a></li>
+                            <li><a href="/ciudad/sectores/activa/">Zaragoza Activa</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-2">
+                    <div class="turismo panel-heading">
+                        <a class="accordion-toggle btn-block text-color" role="button" aria-expanded="false" aria-controls="accordion-turismo" data-toggle="collapse" href="#accordion-turismo">
+                        Turismo
+                        </a>
+                        
+                    </div>
+                    <div id="accordion-turismo" class="panel-collapse collapse in">
+                        <ul class="nav">
+                            
+                            <li class="destacado border-solid-bottom"><a href="/ciudad/turismo/">Servicios destacados<span class="oculto"> de Turismo</span></a></li>
+                            <li><a href="/ciudad/turismo/es/agenda/agenda.htm">Agenda</a></li>
+                            <li><a href="/ciudad/turismo/es/organiza-viaje/como-llegar/como-llegar.htm">Organiza tu Viaje</a></li>
+                            <li><a href="/ciudad/turismo/es/profesionales/quienes-somos.htm">Profesionales</a></li>
+                            <li><a href="/ciudad/turismo/es/que-visitar/sitios-interes/sitios-interes.htm">Qué Visitar</a></li>
+                            <li><a href="/ciudad/turismo/es/servicios/oficinas-de-turismo.htm">Servicios</a></li>
+                            <li><a href="/ciudad/turismo/es/para-todos/zaragoza-accesible.htm">Zaragoza para Todos</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="social-networks well text-center nomargin" itemscope="itemscope" itemtype="http://schema.org/Organization">
+    <link itemprop="url" href="https://www.zaragoza.es" />
+    <ul class="list-inline nomargin padding-r05em">
+        <li>
+            <a itemprop="sameAs" href="https://twitter.com/zaragoza_es">
+                <span class="fab fa-twitter-square fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <a itemprop="sameAs" href="https://www.facebook.com/ayuntamientodezaragoza/">
+                <span class="fab fa-facebook-square fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.flickr.com/photos/zaragoza_es/sets/">
+                <span class="fab fa-flickr fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Flickr</span>
+            </a>
+        </li>
+        <li>
+            <a itemprop="sameAs" href="https://www.youtube.com/user/webzgz">
+                <span class="fab fa-youtube-square fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Youtube</span>
+            </a>
+        </li>
+        <li>
+            <a itemprop="sameAs" href="https://www.instagram.com/Zaragoza_es">
+                <span class="fab fa-instagram fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.zaragozaciudad.net/">
+                <span class="fa fa-comment fa-3x" aria-hidden="true"></span>
+                <span class="sr-only">Blog</span>
+                
+            </a>
+        </li>
+         <li>
+            <a href="http://www.zaragoza.es/sede/servicio/equipamiento/2506">
+                <span class="fa fa-phone fa-3x" aria-hidden="true"> </span> <span class="sr-only">010</span></a>
+                 <a href="https://www.zaragoza.es/sede/portal/servicios-informacion/video-interpretacion"><span class="fa"><img src="/cont/vistas/portal/sede/img/lse.jpg" alt="Legua de signos" /></span></a>
+                <span class="sr-only">010</span>
+            
+       
+        </li>
+    </ul>
+    <div class="margin-t05em">
+        <a class="destacado" href="//www.zaragoza.es/ciudadania/gobierno-abierto/participar/redes-sociales.htm">Directorio de redes municipales</a>
+    </div>
+</div>
+
+        </nav>
+        
+<!-- </header> -->
+
+                
+            </div>
+        </header>
+    <div id="wrapper">
+        
+        
+        
+        
+    <main id="main"><div id="rscont" class="container-fluid">
+        <div class="row">
+            <div class="col-md-9 col-md-push-3">
+                <div class="card">
+                    <h2 class="titulo-test">Actividades destacadas</h2>
+                    
+                    <ul class="row no-gutter list-unstyled nomargin">
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    <img class="img-responsive center-block margin-b05em" width="320" height="480" property="image" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/laura_garcia_cine.png" />
+			                        
+			                        
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215526">Realización de un cortometraje</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">11 al 25 de septiembre</p>
+						            
+						            <div>
+						                <span>Casa de Juventud Miralbueno</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    
+			                        
+			                        <img class="img-responsive center-block margin-b05em" style="width:88px;height:59px;object-fit:cover;" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/hablamos_d_parejashecho.png" />
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215454">Hablamos D... Parejas de hecho en Aragón</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">jueves 17 de septiembre</p>
+						            
+						            <div>
+						                <span>Lugar: Casa de los Morlanes <br/>Organiza: CIPAJ. Juventud Zaragoza</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    <img class="img-responsive center-block margin-b05em" width="320" height="480" property="image" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/jperez_vida_practica1.png" />
+			                        
+			                        
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215527">Patronaje y costura</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">hasta el 26 de mayo de 2021</p>
+						            
+						            <div>
+						                <span>Casa de Juventud San Gregorio</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    <img class="img-responsive center-block margin-b05em" width="320" height="480" property="image" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/festivalasalto2020.png" />
+			                        
+			                        
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215514">Festival Asalto 2020</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">16 al 27 de septiembre</p>
+						            
+						            <div>
+						                <span>Lugar: Barrio San José <br/>Organiza: Festival Asalto</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    
+			                        
+			                        <img class="img-responsive center-block margin-b05em" style="width:88px;height:59px;object-fit:cover;" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/300ce506-6f23-4911-8452-d15a08d1a65f.jpg" />
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215498">Cocina I y II</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">24 de septiembre de 2020 a 06 de abril de 2021</p>
+						            
+						            <div>
+						                <span>Lugar: Centro de Empleo Oliver <br/>Organiza: Instituto municipal de empleo y fomento empresarial</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    
+			                        
+			                        <img class="img-responsive center-block margin-b05em" style="width:88px;height:59px;object-fit:cover;" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/55e1ca6d-c138-464c-9ec5-f946f9017ce0.jpg" />
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215496">Gafas Violetas, perspectiva de género en la prevención del consumo de drogas</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em"> 16 de octubre al  20 de noviembre</p>
+						            
+						            <div>
+						                <span>Lugar: On line <br/>Organiza: Fundación de Ayuda Contra la Drogadicción (FAD)</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    <img class="img-responsive center-block margin-b05em" width="320" height="480" property="image" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/silvia_almonacid_cantante.png" />
+			                        
+			                        
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215535">Voz</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">20 de octubre de 2020 a 28 de mayo de 2021</p>
+						            
+						            <div>
+						                <span>Casa de Juventud Casco Viejo</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    
+			                        
+			                        <img class="img-responsive center-block margin-b05em" style="width:88px;height:59px;object-fit:cover;" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/2d746e5d-9964-4631-a512-8d15b6cdf13b.jpg" />
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215478">Contabilidad para asociaciones</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">26 al 29 de octubre</p>
+						            
+						            <div>
+						                <span>Lugar: Centro de Servicios para Asociaciones Juveniles <br/>Organiza: Consejo de la Juventud de Zaragoza</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                        <li class="col-xs-12 col-sm-4 nomargin alto">
+                            
+                            <div class="row no-gutter">
+                                <div class="col-xs-4">
+                                    
+                                    
+			                        
+			                        <img class="img-responsive center-block margin-b05em" style="width:88px;height:59px;object-fit:cover;" alt="" src="//www.zaragoza.es/cont/paginas/actividades/imagen/6b68c453-e96a-4bba-a1aa-4e310ab8ae1f.jpg" />
+			                        
+			                        
+			                        
+			                        
+                                    
+                                    
+                                </div>
+                                <div class="col-xs-8">
+                                    <h3 class="margin-l05em">
+                                        <a property="name" href="/sede/servicio/actividades/juvenil/215442">La Gestión de la Prevención de Riesgos Laborales. Fundamentos</a>
+                                          
+                                        
+                                    </h3>
+                                    <p class="text-info margin-l05em">03 al 23 de noviembre</p>
+						            
+						            <div>
+						                <span>Lugar: Centro de Formación Ocupacional Salvador Allende <br/>Organiza: Instituto municipal de empleo y fomento empresarial</span>
+						            </div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-md-3 col-md-pull-9">
+    
+        <form method="get" action="/sede/servicio/actividades/juvenil/query" class="well form-horizontal">
+            
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <label for="title" class="control-label">Buscar actividad</label>
+                    <input type="text" class="form-control" id="title" name="title" placeholder="Palabras clave" value="" />
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <div class="col-sm-6">
+                  <label for="startDate">Inicio</label>
+                  <input type="text" class="form-control" id="startDate" name="startDate" placeholder="dd-mm-yyyy" data-date-format="dd-mm-yyyy" data-date-language="es" data-provide="datepicker" value="" />
+                </div>
+            
+                <div class="col-sm-6">
+                  <label for="endDate">Fin</label>
+                  <input type="text" class="form-control" id="endDate" name="endDate" placeholder="dd-mm-yyyy" data-date-format="dd-mm-yyyy" data-date-language="es" data-provide="datepicker" value="" />
+                </div>
+            </div>
+            
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="collapseinc" data-toggle="collapse" data-parent="#accordion" href="#collapse-facet-0">
+                            <span>Temas</span>
+                        </a>
+                    </div>
+                    <div class="panel-collapse collapse in" id="collapse-facet-0">
+                        <ul class="list-group list-group-accordion"><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Actividades+vacacionales%22%29">Actividades vacacionales <span class="badge">12</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Artes+pl%5Cu00e1sticas%22%29">Artes plásticas <span class="badge">17</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Ciencia+y+Tecnolog%5Cu00eda%22%29">Ciencia y Tecnología <span class="badge">3</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Deporte%22%29">Deporte <span class="badge">18</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Desarrollo+personal%22%29">Desarrollo personal <span class="badge">16</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Exposiciones%22%29">Exposiciones <span class="badge">5</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Formaci%5Cu00f3n%22%29">Formación <span class="badge">46</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Gastronom%5Cu00eda%22%29">Gastronomía <span class="badge">2</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Idiomas%22%29">Idiomas <span class="badge">9</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Imagen+y+sonido%22%29">Imagen y sonido <span class="badge">24</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Medio+Ambiente+y+Naturaleza%22%29">Medio Ambiente y Naturaleza <span class="badge">7</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22M%5Cu00fasica%22%29">Música <span class="badge">24</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Ocio+y+Juegos%22%29">Ocio y Juegos <span class="badge">8</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Otros%22%29">Otros <span class="badge">9</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Teatro+y+Artes+Esc%5Cu00e9nicas%22%29">Teatro y Artes Escénicas <span class="badge">25</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=temas_smultiple%3A%28%22Turismo%22%29">Turismo <span class="badge">1</span></a></li></ul>
+                        
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="collapseinc" data-toggle="collapse" data-parent="#accordion" href="#collapse-facet-1">
+                            <span>Tipo de actividad</span>
+                        </a>
+                    </div>
+                    <div class="panel-collapse collapse in" id="collapse-facet-1">
+                        <ul class="list-group list-group-accordion"><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Campos+de+trabajo%22%29">Campos de trabajo <span class="badge">12</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Charlas+%28Conferencias+y+otros%29%22%29">Charlas (Conferencias y otros) <span class="badge">6</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Cursos+y+talleres%22%29">Cursos y talleres <span class="badge">135</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Exhibici%5Cu00f3n%2C+proyecci%5Cu00f3n%2C+competici%5Cu00f3n%22%29">Exhibición, proyección, competición <span class="badge">35</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Exposiciones%22%29">Exposiciones <span class="badge">15</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Festivales%22%29">Festivales <span class="badge">6</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Fiestas%22%29">Fiestas <span class="badge">2</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Otras%22%29">Otras <span class="badge">12</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=formatoActividad_smultiple%3A%28%22Visitas+Guiadas%22%29">Visitas Guiadas <span class="badge">3</span></a></li></ul>
+                        
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="collapseinc" data-toggle="collapse" data-parent="#accordion" href="#collapse-facet-2">
+                            <span>Programa</span>
+                        </a>
+                    </div>
+                    <div class="panel-collapse collapse in" id="collapse-facet-2">
+                        <ul class="list-group list-group-accordion"><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22%23EnCasa%22%29">#EnCasa <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22%23Qu%5Cu00e9dateEnCasa%22%29">#QuédateEnCasa <span class="badge">3</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%2212+Lunas+Verano+2020%22%29">12 Lunas Verano 2020 <span class="badge">13</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Acturea+Verano%22%29">Acturea Verano <span class="badge">2</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Contagiados+de+humor%22%29">Contagiados de humor <span class="badge">4</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Gu%5Cu00eda+de+verano+2020%22%29">Guía de verano 2020 <span class="badge">12</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Harinera+Julio+y+Agosto+2020%22%29">Harinera Julio y Agosto 2020 <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Noche+en+Blanco%22%29">Noche en Blanco <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Si+t%5Cu00fa+te+quedas%2C+nosotros+tambi%5Cu00e9n%22%29">Si tú te quedas, nosotros también <span class="badge">10</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Valdefierro+a+escena%22%29">Valdefierro a escena <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=programa_smultiple%3A%28%22Vuelve+a+la+Cultura%22%29">Vuelve a la Cultura <span class="badge">3</span></a></li></ul>
+                        
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <a class="accordion-toggle btn-block" role="button" aria-expanded="false" aria-controls="collapseinc" data-toggle="collapse" data-parent="#accordion" href="#collapse-facet-3">
+                            <span>Rango de Edad</span>
+                        </a>
+                    </div>
+                    <div class="panel-collapse collapse in" id="collapse-facet-3">
+                        <ul class="list-group list-group-accordion"><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2212+-+16%22%29">12 - 16 <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2212+-+20%22%29">12 - 20 <span class="badge">3</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2212+-+30%22%29">12 - 30 <span class="badge">68</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2214+-+30%22%29">14 - 30 <span class="badge">2</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2216+-+30%22%29">16 - 30 <span class="badge">4</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2216+-+35%22%29">16 - 35 <span class="badge">6</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2216+-+65%22%29">16 - 65 <span class="badge">21</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2218+-+200%22%29">18 - 200 <span class="badge">4</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2218+-+26%22%29">18 - 26 <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2218+-+29%22%29">18 - 29 <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2218+-+30%22%29">18 - 30 <span class="badge">1</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2218+-+35%22%29">18 - 35 <span class="badge">6</span></a></li><li class="list-group-item"><a rel="nofollow" href="/sede/servicio/actividades/juvenil/query?fq=rangoEdad_smultiple%3A%28%2221+-+30%22%29">21 - 30 <span class="badge">1</span></a></li></ul>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-6">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="accessible" value="true" /> Accesible
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="free" value="true" /> Gratuita
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-1 col-xs-2">
+                  <a href="/sede/servicio/actividades/juvenil/query" class="btn btn-info" title="Limpiar filtros de búsqueda">Limpiar</a>
+                </div>
+                <div class="col-xs-offset-4 col-md-offset-3 col-xs-2">
+                  <input type="hidden" name="advanced" value="true" />
+                  <input type="submit" value="Consultar" class="btn btn-primary" />
+                </div>
+            </div>
+        </form>
+        <p class="text-center">
+            <a href="/sede/servicio/actividades/juvenil/evento/new" class="btn btn-success btn-xl">Insertar actividades</a>
+        </p>
+    
+    
+</div>
+
+			<div class="col-md-3 col-md-pull-9">
+		        <div class="card">
+		            <table id="calendar" class="table table-condensed table-calendar"><caption class="text-center"><a class="selector" href="/sede/servicio/actividades/juvenil/calendar/?startDate=01-8-2020" title="Mostrar mes anterior">&#171;</a> <span class="mes">Septiembre 2020</span> <a class="selector" href="/sede/servicio/actividades/juvenil/calendar/?startDate=01-10-2020" title="Mostrar mes siguiente">&#187;</a></caption><tr><th id="c1"><abbr title="lunes">L</abbr></th><th id="c2"><abbr title="martes">M</abbr></th><th id="c3"><abbr title="miércoles">X</abbr></th><th id="c4"><abbr title="jueves">J</abbr></th><th id="c5"><abbr title="viernes">V</abbr></th><th id="c6"><abbr title="sábado">S</abbr></th><th id="c7"><abbr title="domingo">D</abbr></th></tr><tr><td class="Vacio" headers="c1">&nbsp;</td><td headers="c2"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=1-9-2020"><span class="day ">1</span></a></td><td headers="c3"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=2-9-2020"><span class="day ">2</span></a></td><td headers="c4"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=3-9-2020"><span class="day ">3</span></a></td><td headers="c5"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=4-9-2020"><span class="day ">4</span></a></td><td headers="c6"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=5-9-2020"><span class="day ">5</span></a></td><td headers="c7"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=6-9-2020"><span class="day today ">6</span></a></td></tr><tr><td headers="c1"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=7-9-2020"><span class="day ">7</span></a></td><td headers="c2"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=8-9-2020"><span class="day ">8</span></a></td><td headers="c3"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=9-9-2020"><span class="day ">9</span></a></td><td headers="c4"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=10-9-2020"><span class="day ">10</span></a></td><td headers="c5"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=11-9-2020"><span class="day ">11</span></a></td><td headers="c6"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=12-9-2020"><span class="day ">12</span></a></td><td headers="c7"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=13-9-2020"><span class="day ">13</span></a></td></tr><tr><td headers="c1"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=14-9-2020"><span class="day ">14</span></a></td><td headers="c2"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=15-9-2020"><span class="day ">15</span></a></td><td headers="c3"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=16-9-2020"><span class="day ">16</span></a></td><td headers="c4"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=17-9-2020"><span class="day ">17</span></a></td><td headers="c5"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=18-9-2020"><span class="day ">18</span></a></td><td headers="c6"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=19-9-2020"><span class="day ">19</span></a></td><td headers="c7"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=20-9-2020"><span class="day ">20</span></a></td></tr><tr><td headers="c1"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=21-9-2020"><span class="day ">21</span></a></td><td headers="c2"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=22-9-2020"><span class="day ">22</span></a></td><td headers="c3"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=23-9-2020"><span class="day ">23</span></a></td><td headers="c4"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=24-9-2020"><span class="day ">24</span></a></td><td headers="c5"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=25-9-2020"><span class="day ">25</span></a></td><td headers="c6"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=26-9-2020"><span class="day ">26</span></a></td><td headers="c7"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=27-9-2020"><span class="day ">27</span></a></td></tr><tr><td headers="c1"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=28-9-2020"><span class="day ">28</span></a></td><td headers="c2"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=29-9-2020"><span class="day ">29</span></a></td><td headers="c3"><a href="/sede/servicio/actividades/juvenil/calendar/?startDate=30-9-2020"><span class="day ">30</span></a></td><td class="Vacio" headers="c4">&nbsp;</td><td class="Vacio" headers="c5">&nbsp;</td><td class="Vacio" headers="c6">&nbsp;</td><td class="Vacio" headers="c7">&nbsp;</td></tr></table>
+
+
+
+		            <div role="alert" class="alert alert-info">
+    No se encontraron más actividades
+</div>
+
+
+		        </div>
+	        </div>
+        </div>
+        
+    <p class="text-center">Si tienes dudas sobre la Agenda <strong>Joven</strong> CIPAJ, pregúntanos: <a href="tel:+34976721818">976 721 818</a> o <a href="mailto:agendacipaj@zaragoza.es">agendacipaj@zaragoza.es</a>
+<br />Horario de atención: lunes, martes y viernes de 11 a 14 h; miércoles y jueves de 11 a 18,30 h. (Horario de verano: lunes a viernes: de 10,30 a 14,30 h).</p>
+    </div></main></div>
+        <footer class="fnd-gris-claro margin-t3em" vocab="http://schema.org/" typeof="Organization">
+    <div class="container">
+        <div class="row padding-v05em">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
+                <nav>
+                    <ul class="list-inline row margin-a0em navbar-right text-center">
+                        <li><a href="/ciudad/ticketing/verNuevaQuejaAnonima_Ticketing">Su opinión importa</a></li>
+                        <li><a href="/sede/portal/accesibilidad">Accesibilidad</a></li>
+                        <li><a href="//www.w3c.es/Consorcio/miembro/listado_es">Miembro W3C</a></li>
+                        <li><a href="/sede/portal/aviso-legal">Aviso Legal</a></li>
+                        <li><a href="/sede/portal/politica-privacidad">Política de privacidad</a></li>
+                        <li><a href="/sede/portal/proteccion-datos">Protección de Datos</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-md-pull-8 text-center">
+                <a class="navbar-left" href="/sede/portal/copy">
+                    <strong>&copy; Ayuntamiento de Zaragoza</strong>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDWTVQB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!--End Google Tag Manager (noscript) -->
+</footer>
+
+<script type="text/javascript">
+(function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-30945968-1', {
+    'cookieDomain' : 'zaragoza.es',
+    'allowLinker' : true
+});
+ga('send', 'pageview');
+</script>
+
+
+
+
+        <script src="//www.zaragoza.es/cont/plantillas/js/jquery-1.11.3.min.js"></script>
+<script src="/cont/assets/lib/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script src="/cont/assets/js/main-sede.js"></script>
+
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/locales/bootstrap-datepicker.es.min.js"></script>
+    </div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    $(document).ready(function() {
+
+        // Función para simular data-parent sin panels
+        $('#accordion').on('show.bs.collapse', function(e) {
+            var actives = $('#accordion').find('.in, .collapsing');
+            actives.each(function(index, element) {
+                $(element).collapse('hide');
+            });
+        });
+
+    });
+    /*]]>*/
+    </script>
+</body>
+
+</html>
